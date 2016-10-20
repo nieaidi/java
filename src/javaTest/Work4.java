@@ -28,5 +28,7 @@ out.write((avg + "\r\n").getBytes());
 out.flush();
 
 out.close();
+
+
 }
 }
