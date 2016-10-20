@@ -13,6 +13,7 @@ public class Work1 {
 	class Person
 	{ 
 		
+		
 		private String name;
 		private String sex;
 		private int age;
